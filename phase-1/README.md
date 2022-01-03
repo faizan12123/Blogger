@@ -1,6 +1,4 @@
-# comp-440
-
-Repository for COMP 440: Database Design Group Project
+# Phase-1 Instructions
 
 ## Group Members
 Sabra Bilodeau  
