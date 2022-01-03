@@ -6,7 +6,7 @@ from db import updatedb, procedurecall, queryalldb, queryonedb, querydb
 from validation import check_payload, check_blogpost
 from flask import flash, request, session, redirect, render_template
 
-sqlFile = "/Users/sabra/go/src/comp-440/sql/blogs.sql"
+sqlFile = "D:\school\Comp440\comp-440-main\comp-440-main\sql\blogs.sql"
 
 @app.route('/')
 def index():
