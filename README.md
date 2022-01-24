@@ -1,6 +1,9 @@
 # Blogger
 
-Repository for COMP 440: Database Design Group Project
+* Full-Stack web application that allows users to register an account, sign in, post/ edit/ delete a blog, comment on
+blogs, and run many queries to execute actions such as filtering blogs by users, what users follow each other, etc.
+* Database created using MySQL, User interface created using HTML, CSS, and JavaScript, and backend created
+using Python and Node.js.
 
 ## Group Members
 |   Member Name  
