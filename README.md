@@ -6,7 +6,7 @@ blogs, and run many queries to execute actions such as filtering blogs by users,
 using Python and Node.js.
 
 ## Group Members
-|   Member Name  
+|   Member Names  
 | :------------: 
 | Sabra Bilodeau 
 | Faizan Hussain 
